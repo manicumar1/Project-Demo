@@ -1,0 +1,46 @@
+.add-btn-section{
+    display: flex;
+    justify-content: end;
+    margin-right: 35px;
+    margin-bottom: 10px;
+   
+}
+.add-btn{
+    background-color: #5252ad;
+    color: white;
+    border-radius: 5px;
+    /* height: 43%; */
+    height: 40px;
+    width: 120px; 
+}
+.action-section{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.add-task-button-section{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+    gap:22px
+    
+}
+
+.add-task-cancel-btn{
+  background-color: #cb4242;
+  color: white;
+  border-radius: 5px;
+  /* height: 43%; */
+  height: 40px;
+  width: 100px; 
+}
+.add-task-submit-btn{
+  background-color: #0eb90e;
+  color: white;
+  border-radius: 5px;
+  /* height: 43%; */
+  height: 40px;
+  width: 100px; 
+}
